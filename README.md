@@ -16,6 +16,7 @@ Grafico aparentemente atraente de facil visualização dos dados.
 Para aprimorar a apresentação dos dados em meu projeto, a imagem final do gráfico foi incorporada ao projeto, facilitando a interpretação das informações.
 
 
+
 ## Ferramentas Utilizadas
 
 - **Microsoft Excel**: Para organização dos dados e criação do gráfico.
